@@ -460,4 +460,4 @@ else {
   }
 }
 ```
-usto después de esto se sigue el mismo código que queda al final y que se ejecuta no importa que generación sea, lo mostraremos aquí de nuevo
+Justo después de esto se sigue el mismo código que queda al final y que se ejecuta no importa que generación sea, lo mostraremos aquí de nuevo
