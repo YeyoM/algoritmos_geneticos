@@ -3,6 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: hacker
+theme: Hacker
 include:
   - README.md
