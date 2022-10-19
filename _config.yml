@@ -1,9 +1,8 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-remote-theme 
 relative_links:
   enabled: true
   collections: true
-theme: minim
+theme: minima
 include:
   - README.md
