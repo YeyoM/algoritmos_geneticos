@@ -272,7 +272,7 @@ int main() {
   int iterador = 0;
 
   /* 6 elementos seleccionados para cruzar */
-  int indicesAleatorios[6];
+  int indicesAleatorios[7];
 
   /* 4 elementos que no se seleccionaron */
   int indicesNoAleatorios[4];
